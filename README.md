@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Sarayu Mandavilli 👋
 
-<!--
-**sarayumandavilli11-svg/sarayumandavilli11-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student | TechWing, Rajahmundry
+☁️ AWS Certified Cloud Practitioner
+💻 Python | Java | SQL | AWS | Data Quality
 
-Here are some ideas to get you started:
+#### 🔥 Featured Project
+- **Retail KPI Data Quality** - Cleaned sales data using Python & Pandas, created KPI dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Skills
+- Languages: Python, Java, SQL
+- Cloud: AWS
+- Tools: Git, GitHub, Pandas
+
+#### 📫 Connect
+- 📧 sarayumandavilli11@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarayu-mandavilli-34036832b/)
+- 💻 [GitHub](https://github.com/sarayumandavilli11-svg)
+
+---
+✨ Open to Internships & Entry-level roles in AIML / Cloud / Data
